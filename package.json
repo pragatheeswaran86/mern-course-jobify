@@ -31,9 +31,9 @@
     "express-rate-limit": "^6.0.4",
     "helmet": "^5.0.1",
     "http-status-codes": "^2.1.4",
-    "jsonwebtoken": "^8.5.1",
+    "jsonwebtoken": "^9.0.2",
     "moment": "^2.29.1",
-    "mongoose": "^6.0.13",
+    "mongoose": "^8.0.0",
     "morgan": "^1.10.0",
     "validator": "^13.7.0",
     "xss-clean": "^0.1.1"
